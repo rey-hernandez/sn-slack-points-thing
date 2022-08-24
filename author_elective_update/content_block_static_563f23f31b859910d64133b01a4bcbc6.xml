@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_block_static">
+    <content_block_static action="DELETE">
+        <active>true</active>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <logged_on>false</logged_on>
+        <name>manifest.json</name>
+        <static_content><![CDATA[<p>{ &#34;app_id&#34;: &#34;points-thing&#34;, &#34;version&#34;:&#34;v0.0.1&#34;, &#34;display_name&#34;: &#34;Points Thing&#34;, &#34;icon&#34;: &#34;icon.png&#34;, &#34;homepage_url&#34;: &#34;https://emprhernandez2.service-now.com&#34;, &#34;requested_permissions&#34;: [ &#34;act_as_bot&#34; ], &#34;requested_locations&#34;: [ &#34;/channel_header&#34;, &#34;/command&#34; ], &#34;http&#34;: { &#34;root_url&#34;: &#34;https://emprhernandez2.service-now.com&#34; } }</p>]]></static_content>
+        <sys_class_name>content_block_static</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-08 18:03:28</sys_created_on>
+        <sys_id>563f23f31b859910d64133b01a4bcbc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>manifest.json</sys_name>
+        <sys_package display_value="Slack Points Thing" source="x_snc_slack_points">4f6df3c813444f009718b9b76144b02c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Slack Points Thing">4f6df3c813444f009718b9b76144b02c</sys_scope>
+        <sys_update_name>content_block_static_563f23f31b859910d64133b01a4bcbc6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-08 18:03:28</sys_updated_on>
+    </content_block_static>
+    <sys_translated_text action="DELETE" query="documentkey=563f23f31b859910d64133b01a4bcbc6"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Slack Points Thing">4f6df3c813444f009718b9b76144b02c</application>
+        <file_path/>
+        <instance_id>8b185ed8dbaeec508aea21c40596196c</instance_id>
+        <instance_name>emprhernandez2</instance_name>
+        <name>content_block_static_563f23f31b859910d64133b01a4bcbc6</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="content_block_static"&gt;&lt;content_block_static action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;category&gt;general&lt;/category&gt;&lt;condition/&gt;&lt;conditional&gt;false&lt;/conditional&gt;&lt;frame/&gt;&lt;logged_on&gt;false&lt;/logged_on&gt;&lt;name&gt;manifest.json&lt;/name&gt;&lt;static_content&gt;&lt;![CDATA[&lt;p&gt;{ &amp;#34;app_id&amp;#34;: &amp;#34;points-thing&amp;#34;, &amp;#34;version&amp;#34;:&amp;#34;v0.0.1&amp;#34;, &amp;#34;display_name&amp;#34;: &amp;#34;Points Thing&amp;#34;, &amp;#34;icon&amp;#34;: &amp;#34;icon.png&amp;#34;, &amp;#34;homepage_url&amp;#34;: &amp;#34;https://emprhernandez2.service-now.com&amp;#34;, &amp;#34;requested_permissions&amp;#34;: [ &amp;#34;act_as_bot&amp;#34; ], &amp;#34;requested_locations&amp;#34;: [ &amp;#34;/channel_header&amp;#34;, &amp;#34;/command&amp;#34; ], &amp;#34;http&amp;#34;: { &amp;#34;root_url&amp;#34;: &amp;#34;https://emprhernandez2.service-now.com&amp;#34; } }&lt;/p&gt;]]&gt;&lt;/static_content&gt;&lt;sys_class_name&gt;content_block_static&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-08-08 18:03:28&lt;/sys_created_on&gt;&lt;sys_id&gt;563f23f31b859910d64133b01a4bcbc6&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;manifest.json&lt;/sys_name&gt;&lt;sys_package display_value="Slack Points Thing" source="x_snc_slack_points"&gt;4f6df3c813444f009718b9b76144b02c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Slack Points Thing"&gt;4f6df3c813444f009718b9b76144b02c&lt;/sys_scope&gt;&lt;sys_update_name&gt;content_block_static_563f23f31b859910d64133b01a4bcbc6&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-08-08 18:03:28&lt;/sys_updated_on&gt;&lt;/content_block_static&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=563f23f31b859910d64133b01a4bcbc6"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1895901999</payload_hash>
+        <record_name>manifest.json</record_name>
+        <reverted_from/>
+        <source>3995c4bc1bcd1110d64133b01a4bcb9f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-08 18:03:28</sys_created_on>
+        <sys_id>3120b3f31b859910d64133b01a4bcbc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1827ea043680000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-08 18:03:28</sys_updated_on>
+        <type>Static Content</type>
+        <update_guid>7920b3f317859910d619a9a6172d59c6</update_guid>
+        <update_guid_history>7920b3f317859910d619a9a6172d59c6:-1895901999</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="manifest.json">1eae9b321b591550a1721f46bc4bcb0d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-18 00:28:49</sys_created_on>
+        <sys_db_object display_value="" name="content_block_static">content_block_static</sys_db_object>
+        <sys_id>83aeeca4ae7e4cbbb5ebb653a118d4d9</sys_id>
+        <sys_metadata>563f23f31b859910d64133b01a4bcbc6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>manifest.json</sys_name>
+        <sys_package display_value="Slack Points Thing" source="x_snc_slack_points">4f6df3c813444f009718b9b76144b02c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Slack Points Thing">4f6df3c813444f009718b9b76144b02c</sys_scope>
+        <sys_scope_delete display_value="">131a8728698a46509850999a68198624</sys_scope_delete>
+        <sys_update_name>content_block_static_563f23f31b859910d64133b01a4bcbc6</sys_update_name>
+        <sys_update_version display_value="content_block_static_563f23f31b859910d64133b01a4bcbc6">3120b3f31b859910d64133b01a4bcbc7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-18 00:28:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA Empty Dashboard - New Tab">40c008451b959d10a1721f46bc4bcb0f</legacy_page>
+        <name>PA Empty Dashboard - New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-11 21:49:55</sys_created_on>
+        <sys_id>c4c008451b959d10a1721f46bc4bcb10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Empty Dashboard - New Tab</sys_name>
+        <sys_package display_value="Slack Points Thing" source="x_snc_slack_points">4f6df3c813444f009718b9b76144b02c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Slack Points Thing">4f6df3c813444f009718b9b76144b02c</sys_scope>
+        <sys_update_name>sys_grid_canvas_c4c008451b959d10a1721f46bc4bcb10</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-11 21:49:55</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>
